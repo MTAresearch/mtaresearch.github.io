@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="225.73096mm"
+   height="76.360001mm"
+   viewBox="0 0 225.73096 76.360001"
+   version="1.1"
+   id="svg1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <g
+     id="layer1"
+     transform="translate(-1.8520831,-10.847922)">
+    <g
+       id="use7-6"
+       style="fill:#2b1100;stroke:#000000;stroke-opacity:1"
+       transform="matrix(0.26458333,0,0,0.26458333,-4.626042,6.3114765)">
+      <ellipse
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:14.8797;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         id="ellipse9"
+         cx="177.48424"
+         cy="161.44798"
+         rx="145.56013"
+         ry="136.86252" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:13.97;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         d="M 51.603024,218.015 154.85896,132.80662 196.91433,184.04214 290.43288,80.27437"
+         id="path9" />
+    </g>
+    <g
+       id="use8"
+       transform="matrix(0.26458333,0,0,0.26458333,-4.626042,10.097275)">
+      <text
+         xml:space="preserve"
+         style="font-size:126.388px;font-family:Helvetica;-inkscape-font-specification:Helvetica;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.57985;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         x="359.10968"
+         y="118.26779"
+         id="text8"
+         transform="scale(0.98638706,1.0138008)"><tspan
+           id="tspan8"
+           x="359.10968"
+           y="118.26779"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:126.388px;font-family:Inter;-inkscape-font-specification:'Inter Semi-Bold';fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.57985;stroke-dasharray:none;stroke-opacity:1">MTA</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:126.388px;font-family:Helvetica;-inkscape-font-specification:Helvetica;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.57985;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         x="359.10968"
+         y="258.30457"
+         id="text9"
+         transform="scale(0.98638706,1.0138008)"><tspan
+           x="359.10968"
+           y="258.30457"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:126.388px;font-family:Inter;-inkscape-font-specification:'Inter Semi-Bold';fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.57985;stroke-dasharray:none;stroke-opacity:1"
+           id="tspan9">Research</tspan></text>
+    </g>
+  </g>
+</svg>

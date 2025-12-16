@@ -1,0 +1,38 @@
+---
+title: "About"
+---
+
+::: {.columns}
+::: {.column width="20%"}
+![](images/headshot-web.png){fig-alt="Michael Townsley (PhD)" class="headshot"}
+:::
+
+::: {.column width="80%" .about-text}
+MTA Research is an independent research consultancy specialising in crime science, retail loss prevention, and applied analytics. We help translate evidence into practical strategies, measurement frameworks, and decision-ready reporting.
+
+MTA Research is led by Michael Townsley (PhD), a criminologist with two decades of experience in crime science and prevention. This includes published research, international experience, and previous appointments at leading institutions.
+:::
+:::
+
+
+## Our focus
+
+We work at the intersection of:
+
+- **Retail crime and loss** (incidents, people, products, places, processes)
+- **Fraud and abuse** (behaviour mapping, opportunity reduction, controls and measurement)
+- **Evaluation** (credible designs that fit real-world rollouts and constraints)
+
+## Our approach
+
+We prioritise:
+
+- **Decision-first research** — start from the decision you need to make, then design methods to support it
+- **Rigour without theatre** — clear assumptions, transparent limits, results that stand up to scrutiny
+- **Implementation realism** — recommendations that can be delivered in operational settings
+- **Clarity** — plain language, concise reporting, and well-structured outputs
+
+
+## Independence
+
+MTA Research is an independent consultancy and is not affiliated with or endorsed by any university or institution.

@@ -1,0 +1,79 @@
+---
+title: "Services"
+---
+
+
+MTA Research provides independent, evidence-led support across prevention strategy, analytics, and evaluation. Engagements are tailored to your decision context, data environment, and operational constraints.
+
+## 1) Retail crime research & analytics
+
+**What we do**  
+We help make sense of incident, people, product and location data to identify what is driving loss and what is most likely to reduce it.
+
+**Typical questions**
+
+- Where is loss concentrated, and what patterns are emerging over time?
+- What distinguishes routine error from fraud/abuse signals?
+- Which stores, products, or processes should be prioritised for prevention effort?
+
+**Common outputs**
+
+- Analytical report (plain-language findings, clear visuals, defensible methods)
+- Executive brief with prioritised recommendations
+- Dashboards/figures suitable for operational and executive audiences
+
+## 2) Fraud & abuse prevention
+
+**What we do**  
+We use crime scripting and opportunity-reduction thinking to map how abuse occurs and where controls can be applied with minimal friction.
+
+**Typical questions**
+
+- How is policy being exploited, and at which steps does it become preventable?
+- Which controls are likely to reduce opportunity without harming legitimate customers?
+- What indicators can be monitored to detect emerging abuse types?
+
+**Common outputs**
+
+- Behaviour typology and risk indicators (plain language, operationally interpretable)
+- Prevention script / control map with options and trade-offs
+- Measurement approach to track change after implementation
+
+## 3) Program design & evaluation
+
+**What we do**  
+We design measurement frameworks and evaluation plans that match the realities of rollout, compliance, and operational variation.
+
+**Typical questions**
+
+- Is the program working, for whom, and under what conditions?
+- What is the best feasible design for credible measurement (given constraints)?
+- What is the likely uplift/ROI, and what assumptions drive it?
+
+**Common outputs**
+
+- Evaluation plan (questions, measures, sampling, timeline)
+- Pre/post survey instruments and analysis plan (where appropriate)
+- Results reporting that supports decision-making, not just description
+
+## 4) Workshops & training
+
+**What we do**  
+We run practical sessions that help teams apply crime-science tools to their own context and produce usable outputs.
+
+**Formats**
+
+- Short skills sessions (90–180 minutes) on core tools and interpretation
+- Co-design workshops to generate prevention actions and prioritise controls
+- Facilitation for cross-team alignment on definitions, measures and next steps
+
+**Common outputs**
+
+- Workshop pack (templates, examples, facilitation materials)
+- Summary of outputs and prioritised action list
+- Follow-on recommendations for implementation and measurement
+
+## Not sure which service fits?
+We can usually clarify fit quickly from a short description of the problem, the decision you need to make, and what data (if any) is available.
+
+[Contact us](contact.qmd){.btn .btn-primary}

@@ -1,0 +1,38 @@
+---
+title: "Evidence-based prevention and analytics for retail"
+---
+
+
+MTA Research helps retailers and solution providers turn complex data and operational knowledge into practical loss-prevention strategies. We apply crime-science methods and rigorous evaluation to deliver results you can implement—without the jargon.
+
+[View services](services.qmd){.btn .btn-primary} [Contact us](contact.qmd){.btn .btn-outline-secondary}
+
+## What we do
+
+- **Retail crime research & analytics**  
+  Analyse incidents, products, people and places; diagnose drivers of loss; produce clear, decision-ready insights.
+
+- **Fraud & abuse prevention**  
+  Map problem behaviours using crime scripting; identify weak points; design opportunity-reduction controls that work in real operations.
+
+- **Program design & evaluation**  
+  Build measurement frameworks through to quasi-experimental evaluation; track uplift, ROI and operational impact.
+
+- **Workshops & training**  
+  Short, practical sessions on crime-science tools and prevention scripting; co-design workshops with store and central teams.
+
+## Why MTA Research
+
+### Applied academic rigour
+MTA Research is led by Michael Townsley (PhD), a criminologist with two decades in crime science and retail loss prevention. Our work draws on peer-reviewed research, transparent methods, and a practical orientation to implementation.
+
+### Retail-first, results-focused
+We have experience supporting major retailers and industry bodies across Australia and New Zealand. We focus on outputs that are executive-ready and operationally useful.
+
+### Data governance & confidentiality
+We treat confidentiality as a default. We work under NDAs where required and use privacy-aware approaches to business data and survey measurement.
+
+## Start a conversation
+If you have a problem to diagnose, a program to evaluate, or a prevention strategy to sharpen, we’re happy to discuss fit and scope.
+
+[Get in touch](contact.qmd){.btn .btn-primary}

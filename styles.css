@@ -1,0 +1,65 @@
+/* Keep typography clean and spacing generous */
+body {
+  line-height: 1.6;
+}
+
+/* Constrain line length for readability */
+main, .content {
+  max-width: 980px;
+}
+
+/* Navbar logo sizing */
+.navbar-brand img {
+  height: 32px;
+  width: auto;
+}
+
+/* Make buttons feel modern/minimal */
+.btn {
+  border-radius: 10px;
+  padding: 0.55rem 0.9rem;
+}
+
+/* Subtle emphasis for headings */
+h1, h2, h3 {
+  letter-spacing: -0.01em;
+}
+
+/* Teal accent: links + primary buttons */
+a {
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+
+/* If you want teal accent, set it here (replace with your exact teal) */
+:root {
+  --mta-accent: #0aa6a6; /* placeholder teal */
+}
+
+a, .nav-link:hover {
+  color: var(--mta-accent);
+}
+
+.btn-primary {
+  background-color: var(--mta-accent);
+  border-color: var(--mta-accent);
+}
+
+.btn-primary:hover {
+  filter: brightness(0.95);
+}
+
+.about-text {
+  padding-left: 18px;
+}
+
+.headshot {
+  border-radius: 14px;
+  max-width: 200px;   /* tweak */
+  width: 100%;
+  height: auto;
+  display: block;
+  margin-right: 18px; /* creates the gap */
+}

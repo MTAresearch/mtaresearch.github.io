@@ -1,0 +1,25 @@
+project:
+  type: website
+
+website:
+  title: "MTA Research"
+  navbar:
+    logo: assets/favicon.svg
+    left:
+      - href: index.qmd
+        text: Home
+      - href: services.qmd
+        text: Services
+      - href: about.qmd
+        text: About
+      - href: contact.qmd
+        text: Contact
+  favicon: favicon.ico
+  page-footer:
+    left: "© 2026 MTA Research Pty Ltd. ABN 79 692 601 540. ACN 692 601 540."
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
